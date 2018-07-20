@@ -1,1 +1,2 @@
-# python
+- # python
++ # Repository for pytnon training
